@@ -20,3 +20,4 @@ Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/139783252079542272?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/139783252079542272)
 
 </p>
+x
