@@ -1,7 +1,7 @@
 ## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-🎉 Tekrardan herkese selam!
+🐈 Tekrardan herkese selam!
 
 - Kendimden biraz bahsedeyim. Ben Kaan namı diğer [rufflws](https://github.com/rufflws) 21 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
 4 - 5 yıla yakındır sosyal medya işleriyle uğraşıyorum. Bana bu yolda [Thelox] (https://github.com/theloxd)'a teşekkürlerimi sunuyorum :)
