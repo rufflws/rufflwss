@@ -13,7 +13,7 @@ Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
      
- <a href="https://instagram.com/rufflwss" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://instagram.com/rufflwss" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://twitch.tv/rufflwss" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
  <a href="https://open.spotify.com/user/10io98y5vw33zp9hym0zmc9f9" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     
