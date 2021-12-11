@@ -4,7 +4,7 @@
 🐈 Tekrardan herkese selam!
 
 - Kendimden biraz bahsedeyim. Ben Kaan namı diğer [rufflws](https://github.com/rufflws) 21 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
-4 - 5 yıla yakındır sosyal medya işleriyle uğraşıyorum. Bana bu yolda [Thelox] (https://github.com/theloxd)'a teşekkürlerimi sunuyorum :)
+4 - 5 yıla yakındır sosyal medya işleriyle uğraşıyorum. Bana bu yolda [Thelox] (https://github.com/theloxd) 'a teşekkürlerimi sunuyorum :)
 Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
 
